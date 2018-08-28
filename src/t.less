@@ -1,0 +1,15 @@
+/* should not report number-no-trailing-zeros */
+/* should report block-no-empty */
+a {
+	top: 1.0px ;
+	--height: 10px;
+	color: pink;
+}
+
+div {
+	--width: 10px;
+	$height: 20px;
+	display: none;
+	span {}
+	@media (min-width: 100px) {}
+}

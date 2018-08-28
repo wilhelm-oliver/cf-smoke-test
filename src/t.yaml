@@ -1,0 +1,3 @@
+# should not report braces and others
+# should report trailing-spaces
+object: { key1: 4, key2: 8 } 
