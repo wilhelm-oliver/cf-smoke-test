@@ -1,5 +1,5 @@
 # should not report Layout/AccessModifierIndentation, Layout/EmptyLinesAroundAccessModifier, Layout/EndOfLine
-# should report Layout/TrailingWhitespace, Lint/DuplicateMethods
+# should report Lint/DuplicateMethods
 
 # bad
 class Plumbus
