@@ -1,4 +1,4 @@
-# should not report missing-docstring, missing-final-newline, invalid-name
+# should not report missing-docstring, invalid-name
 # should report trailing-whitespace and bare-except
 def divide(a, b): 
 
