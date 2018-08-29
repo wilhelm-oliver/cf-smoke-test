@@ -1,5 +1,5 @@
-# should not report missing-docstring, invalid-name
-# should report trailing-whitespace and bare-except
+# should not report trailing-whitespace, missing-docstring, invalid-name
+# should report bare-except
 def divide(a, b): 
 
     try:
